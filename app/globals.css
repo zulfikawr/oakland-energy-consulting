@@ -1,0 +1,51 @@
+@import 'tailwindcss';
+
+:root {
+  --darkest: #212529;
+  --darker: #424649;
+  --dark: #a6a6ab;
+  --light: #f4f4f4;
+  --lightest: #ffffff;
+}
+
+@theme inline {
+  --color-darkest: var(--darkest);
+  --color-darker: var(--darker);
+  --color-dark: var(--dark);
+  --color-light: var(--light);
+  --color-lightest: var(--lightest);
+}
+
+.text-h1 {
+  font-size: 64px;
+  line-height: auto;
+}
+
+.text-h2 {
+  font-size: 40px;
+  line-height: auto;
+}
+
+.text-h3 {
+  font-size: 32px;
+  line-height: auto;
+}
+
+.text-body {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.text-label {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.text-accordion-title {
+  font-size: 48px;
+  line-height: auto;
+}
+
+body {
+  font-family: var(--font-inter);
+}
