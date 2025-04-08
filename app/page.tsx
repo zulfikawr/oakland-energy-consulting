@@ -48,7 +48,7 @@ export default function Home() {
           <div className='hidden md:block md:w-1/2'>
             <div className='relative h-full w-full'>
               <Image
-                src='/images/hero.png'
+                src='/images/street-light-against-cloudy-sky.png'
                 alt='Street light against cloudy sky'
                 fill
                 priority

@@ -1,6 +1,6 @@
 # Oakland Energy Consulting
 
-![Oakland Energy Consulting Preview](https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/8d78f2ba1022499a5206ee55d288925133f06010)
+![Oakland Energy Consulting Preview](/public/preview.png)
 
 A modern, responsive website for Oakland Energy Consulting built with Next.js 15, Tailwind CSS, and TypeScript. This project is based on the [Figma template](https://www.figma.com/community/file/1286988416416005752/oakland-energy-solutions-full-website) designed by Ricardo Freire.
 
@@ -51,6 +51,7 @@ Open http://localhost:3000 in your browser to view the website.
 
 ### 🌍 Deployment
 The project is deployed on Vercel on:
+[https://oakland-energy-consulting.vercel.app](https://oakland-energy-consulting.vercel.app)
 
 ## 🙏 Acknowledgments
 Ricardo Freire for the original Figma design
